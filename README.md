@@ -37,3 +37,47 @@ projeto-one-piece/
 │   │   └── script.js
 │   └── images/
 └── README.md
+
+🚀 Como Executar o Projeto
+
+Clone este repositório:
+
+git clone https://github.com/MarcosJunior1996/projeto-one-piece.git
+
+Acesse a pasta do projeto:
+
+cd projeto-one-piece
+
+Abra o arquivo index.html no navegador
+(ou utilize a extensão Live Server no VS Code)
+
+📚 Aprendizados
+
+Com este projeto foi possível reforçar conhecimentos em:
+
+HTML semântico
+
+CSS (layout, responsividade e organização)
+
+JavaScript para interações dinâmicas
+
+Manipulação de eventos e DOM
+
+Boas práticas em projetos frontend
+
+📌 Próximos Passos (Melhorias Futuras)
+
+Melhorar acessibilidade (ARIA, navegação por teclado)
+
+Refatorar JavaScript para melhor organização
+
+Adicionar animações
+
+Versão com React
+
+Publicar o projeto no GitHub Pages
+
+👨‍💻 Autor
+
+Desenvolvido por Marcos Junior
+🔗 GitHub: https://github.com/MarcosJunior1996
