@@ -37,16 +37,20 @@ projeto-one-piece/
 │   │   └── script.js
 │   └── images/
 └── README.md
+```
 
 🚀 Como Executar o Projeto
 
 Clone este repositório:
 
+```bash
 git clone https://github.com/MarcosJunior1996/projeto-one-piece.git
-
+```
 Acesse a pasta do projeto:
 
+```bash
 cd projeto-one-piece
+```
 
 Abra o arquivo index.html no navegador
 (ou utilize a extensão Live Server no VS Code)
